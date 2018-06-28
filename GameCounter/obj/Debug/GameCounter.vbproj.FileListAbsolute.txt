@@ -1,0 +1,16 @@
+c:\users\bkwin10\documents\visual studio 2015\Projects\GameCounter\GameCounter\obj\Debug\GameCounter.vbprojResolveAssemblyReference.cache
+c:\users\bkwin10\documents\visual studio 2015\Projects\GameCounter\GameCounter\obj\Debug\GameCounter.vbproj.GenerateResource.Cache
+C:\Users\BkWin10\documents\visual studio 2015\Projects\GameCounter\GameCounter\bin\Debug\Overwatach Time Counter.exe.config
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\bin\Debug\Overwatach Time Counter.exe
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\bin\Debug\Overwatach Time Counter.pdb
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\bin\Debug\Overwatach Time Counter.xml
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\bin\Debug\aa\Overwatach Time Counter.resources.dll
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\obj\Debug\OwTimeCounter.MainForm.resources
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\obj\Debug\OwTimeCounter.Resources.resources
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\obj\Debug\OwTimeCounter.SettingsForm.resources
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\obj\Debug\OwTimeCounter.Setup.resources
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\obj\Debug\OwTimeCounter.SettingsForm.aa.resources
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\obj\Debug\aa\Overwatach Time Counter.resources.dll
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\obj\Debug\Overwatach Time Counter.exe
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\obj\Debug\Overwatach Time Counter.xml
+C:\Users\BkWin10\Documents\Visual Studio 2015\Projects\GameCounter\GameCounter\obj\Debug\Overwatach Time Counter.pdb
